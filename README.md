@@ -1,2 +1,1 @@
-#ImersãoFrontEnd
-#Alura
+Spotify
